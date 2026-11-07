@@ -1,0 +1,5 @@
+pandas==3.0.5
+numpy==2.5.2
+mlxtend==0.25.0
+psutil==7.2.2
+streamlit==1.62.0
